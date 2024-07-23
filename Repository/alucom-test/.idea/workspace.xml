@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="744c6358-070d-4011-a205-d9af81f9dce5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.6/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jc1gJLO2YBgQwFlkWWuZr8ssPk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Database Script.0001_01_01_000000_create_produtos_table.sql and 2 more.executor&quot;: &quot;Run&quot;,
+    &quot;Database Script.0001_01_01_000000_create_produtos_table.sql and 4 more.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/eduardovasconcelos/Projetos/alucom-test/public/saidas&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;ae9de59f-ef05-4149-b1f2-1960d4359d6c&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/saidas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/entradas" />
+      <recent name="$PROJECT_DIR$/public/saidas" />
+      <recent name="$PROJECT_DIR$/public/produtos/saidas" />
+      <recent name="$PROJECT_DIR$/public/produtos/entradas" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.0001_01_01_000000_create_produtos_table.sql and 2 more">
+    <configuration name="0001_01_01_000000_create_produtos_table.sql and 2 more" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000000_create_produtos_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000001_create_entradas_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000003_create_saidas_table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="ae9de59f-ef05-4149-b1f2-1960d4359d6c" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0001_01_01_000000_create_produtos_table.sql and 4 more" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000000_create_produtos_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000001_create_entradas_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000002_create_produto_entrada_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000003_create_saidas_table.sql" />
+      <script-file value="$PROJECT_DIR$/database/0001_01_01_000004_create_produto_saida_table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="ae9de59f-ef05-4149-b1f2-1960d4359d6c" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.0001_01_01_000000_create_produtos_table.sql and 2 more" />
+        <item itemvalue="Database Script.0001_01_01_000000_create_produtos_table.sql and 4 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PS-241.14494.237" />
+        <option value="bundled-php-predefined-ba97393d7c68-8f0632a2a215-com.jetbrains.php.sharedIndexes-PS-241.14494.237" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744c6358-070d-4011-a205-d9af81f9dce5" name="Changes" comment="" />
+      <created>1721671661105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721671661105</updated>
+      <workItem from="1721671662088" duration="2112000" />
+      <workItem from="1721678476886" duration="461000" />
+      <workItem from="1721678942572" duration="740000" />
+      <workItem from="1721679811927" duration="5977000" />
+      <workItem from="1721697499593" duration="54000" />
+      <workItem from="1721697693758" duration="13000" />
+      <workItem from="1721697728712" duration="31000" />
+      <workItem from="1721697767517" duration="664000" />
+      <workItem from="1721699203860" duration="1605000" />
+      <workItem from="1721704012884" duration="32323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
